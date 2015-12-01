@@ -48,3 +48,6 @@ end
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'simple_form', '~> 3.2'
 gem 'devise'
+gem 'validate_url'
+gem 'nokogiri'
+gem 'utf8_utils'
